@@ -1,52 +1,52 @@
-{
-  "dappList":[
-    {
-      "title": '我要当国王',
-      "subTitle": "“我要当国王”是以太链上的一款大型去中心化塔防游戏。游戏挖矿和邀请收益完全采用去中心化链上分配，公正透明。",
-      "url": 'https://king.teamcrazy.io',
-      "img": 'https://i.loli.net/2019/09/27/LXTWgupNyUAJw1K.png'
-    },
-    {
-      "title": 'Kyber Network',
-      "subTitle": '即时去中心化交易服务',
-      "url": 'https://web3.kyber.network',
-      "img": 'https://cdn.cryptostats.net/assets/images/coins/310497-KNC.png'
-    },
-    {
-      "title": 'IDEX',
-      "subTitle": 'IDEX 是Ethereum 代币的交易所.',
-      "url": 'https://idex.market/',
-      "img": 'https://idex.market/static/images/favicon-logo-wt-trans.png'
-    },
-    {
-      "title": 'OpenSea',
-      "subTitle": 'A peer-to-peer marketplace for rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKitties, blockchain game items, and much more.',
-      "url": 'https://opensea.io',
-      "img": 'https://pbs.twimg.com/profile_images/988983240458305538/KNIW8ufg_400x400.jpg'
-    },
-    {
-      "title": 'Etheremon',
-      "subTitle": 'A world of Ether monster where you can captures, transform,...',
-      "url": 'https://www.etheremon.com',
-      "img": 'https://pbs.twimg.com/profile_images/960520740196909056/3RBArulO_400x400.jpg'
-    },
-    {
-      "title": '0x Portal',
-      "subTitle": 'An Open Protocol For Decentralized Exchange On The Ethereum Blockchain.',
-      "url": 'https://www.0xproject.com/portal',
-      "img": 'https://www.bebit.fr/wp-content/uploads/2018/04/0x-.png'
-    },
-    {
-      "title": 'Fork Delta',
-      "subTitle": 'A decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange',
-      "url": 'https://forkdelta.app',
-      "img": 'https://forkdelta.io/images/logo.png'
-    },
-    {
-      "title": 'Cryptokitties',
-      "subTitle": "世界上第一款去中心化游戏.孵化您的猫宝宝. The future is meow!",
-      "url": 'https://www.cryptokitties.co',
-      "img": 'https://vignette.wikia.nocookie.net/cryptokitties/images/7/7f/Kitty-eth.png/revision/latest?cb=20171202061949'
-    }
-  ]
+{ 
+   "dappList":[ 
+      { 
+         "title":'我要当国王',
+         "subTitle":"“我要当国王”是以太链上的一款大型去中心化塔防游戏。游戏挖矿和邀请收益完全采用去中心化链上分配，公正透明。",
+         "url":'https://king.teamcrazy.io',
+         "img":'https://i.loli.net/2019/09/27/LXTWgupNyUAJw1K.png'
+      },
+      { 
+         "title":'Kyber Network',
+         "subTitle":'即时去中心化交易服务',
+         "url":'https://web3.kyber.network',
+         "img":'https://cdn.cryptostats.net/assets/images/coins/310497-KNC.png'
+      },
+      { 
+         "title":'IDEX',
+         "subTitle":'IDEX 是Ethereum 代币的交易所.',
+         "url":'https://idex.market/',
+         "img":'https://idex.market/static/images/favicon-logo-wt-trans.png'
+      },
+      { 
+         "title":'OpenSea',
+         "subTitle":'A peer-to-peer marketplace for rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKitties, blockchain game items, and much more.',
+         "url":'https://opensea.io',
+         "img":'https://pbs.twimg.com/profile_images/988983240458305538/KNIW8ufg_400x400.jpg'
+      },
+      { 
+         "title":'Etheremon',
+         "subTitle":'A world of Ether monster where you can captures, transform,...',
+         "url":'https://www.etheremon.com',
+         "img":'https://pbs.twimg.com/profile_images/960520740196909056/3RBArulO_400x400.jpg'
+      },
+      { 
+         "title":'0x Portal',
+         "subTitle":'An Open Protocol For Decentralized Exchange On The Ethereum Blockchain.',
+         "url":'https://www.0xproject.com/portal',
+         "img":'https://www.bebit.fr/wp-content/uploads/2018/04/0x-.png'
+      },
+      { 
+         "title":'Fork Delta',
+         "subTitle":'A decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange',
+         "url":'https://forkdelta.app',
+         "img":'https://forkdelta.io/images/logo.png'
+      },
+      { 
+         "title":'Cryptokitties',
+         "subTitle":"世界上第一款去中心化游戏.孵化您的猫宝宝. The future is meow!",
+         "url":'https://www.cryptokitties.co',
+         "img":'https://vignette.wikia.nocookie.net/cryptokitties/images/7/7f/Kitty-eth.png/revision/latest?cb=20171202061949'
+      }
+   ]
 }
